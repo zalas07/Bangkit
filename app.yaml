@@ -1,0 +1,9 @@
+runtime: nodejs
+env: flex
+service: backend
+
+env_variables:
+  MYSQL_HOST: '34.121.145.35'
+  MYSQL_USER: 'root'
+  MYSQL_PASSWORD: 'bigcock'
+  MYSQL_DATABASE: 'user'
